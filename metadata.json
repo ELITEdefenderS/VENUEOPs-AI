@@ -1,0 +1,6 @@
+{
+  "name": "World Cup Ops AI",
+  "description": "GenAI-enabled solution for stadium operations and crowd management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
